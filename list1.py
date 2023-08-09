@@ -1,0 +1,9 @@
+l1=[1,2,"Hello",3.5]
+print(type(l1))
+print(l1[0:])
+print(l1[:])
+print(l1[2:4])
+print(l1[:4])
+print(l1[1:4:2])
+print(l1[-1])
+print(l1[-3:-1])
