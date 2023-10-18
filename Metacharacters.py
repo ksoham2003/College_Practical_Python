@@ -5,7 +5,7 @@ print("\"Hello\"")
 txt = "This is python programming" 
 print(re.findall("[p-t]", txt))
 
-print(bool(re.findall("^ python",txt)))
+print(bool(re.findall("^python",txt)))
 
 print(bool(re.findall("programming$",txt)))
 
